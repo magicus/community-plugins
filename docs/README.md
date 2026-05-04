@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Community Plugins documentation! This is the home to the various documentation for the Community PLugins repo itself. For documentation about each plugin please look at their respective `README` in their workspace folder, you can find these in the [Workspaces and Their Plugins](#workspaces-and-their-plugins) table below.
+Welcome to the Community Plugins documentation! This is the home to the various documentation for the Community Plugins repo itself. For documentation about each plugin please look at their respective `README` in their workspace folder, you can find these in the [Workspaces and Their Plugins](#workspaces-and-their-plugins) table below.
 
 > [!NOTE]
 > This is intended to be a starting point for more structured documentation and is very much "Work in Progress" as we agree on a proper approach for Community Plugin Documentation.
